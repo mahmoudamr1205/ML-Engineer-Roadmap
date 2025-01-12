@@ -28,7 +28,17 @@ ___
 |Refrance|NOTE|
 |-|-|
 |[python-methods-cheatsheet](https://github.com/h9-tect/python-methods-cheatsheet.git)||
+|[100days_AI](https://github.com/h9-tect/100days_AI.git)||
 |[Deep Learning Mathematics Roadmap](https://github.com/h9-tect/ML-DL_Roadmap..git)|
 |[Arabic_NLP_resources](https://github.com/h9-tect/Arabic_NLP_resources.git)| |
 |[ML-YouTube-Courses](https://github.com/dair-ai/ML-YouTube-Courses.git)||
 |[Important-links-for-ml](https://github.com/h9-tect/Important-links-for-ml-.git)||
+
+
+www.hackerrank.com
+
+[comment]: Code_ 
+
+_____
+______
+_____
